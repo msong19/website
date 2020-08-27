@@ -8,6 +8,11 @@ td {
   padding: 50px;
 }
 
+.tes {
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
 h1 {
   color: #66BFBF;
   font-size: 5.625rem;
